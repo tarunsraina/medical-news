@@ -1,6 +1,6 @@
 {
-  "name": "health-news",
-  "homepage": "https://tarunsraina.github.io/health-news",
+  "name": "medical-news",
+  "homepage": "https://tarunsraina.github.io/medical-news",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
